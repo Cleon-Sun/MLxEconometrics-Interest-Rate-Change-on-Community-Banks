@@ -2,6 +2,7 @@
 
 ## Overview
 ![Alt text](Screenshot 2024-03-04 at 15.00.04.png)
+
 This study investigates the impact of interest rate changes on the performance indicators of community banks. We explore the correlation between interest rates and community bank failures, hypothesizing that certain key factors influenced by interest rates could serve as predictors for bank failures.
 
 ## Data Collection
